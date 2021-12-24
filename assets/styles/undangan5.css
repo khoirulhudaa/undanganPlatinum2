@@ -1135,6 +1135,11 @@ button:focus:not(:focus-visible) {
     padding: 12px;
 }
 
+.btn-gift {
+    position: relative;
+    top: 7px;
+}
+
 .love2 {
     position: relative;
     width: 40px;
@@ -2169,8 +2174,7 @@ form {
         justify-content: center;
         align-items: center;
         border-radius: 9999pc;
-        background-color: 
-        rgba(246, 174, 153, 1);
+        background-color: rgba(246, 164, 84, 1);
         box-sizing: border-box;
         padding: 12px;
     }
@@ -2187,8 +2191,7 @@ form {
         justify-content: center;
         align-items: center;
         border-radius: 9999pc;
-        background-color: 
-        rgba(246, 174, 153, 1);
+        background-color: rgba(246, 164, 84, 1);
         box-sizing: border-box;
         padding: 12px;
     }
@@ -2200,7 +2203,7 @@ form {
         left: 50%;
         transform: translate(-50%,-50%);
         width: 3px;
-        background-color: #F6AE99;
+        background-color: rgba(246, 164, 84, 1);
         height: 240px;
         position: absolute;
     }
