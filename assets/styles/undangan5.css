@@ -75,6 +75,8 @@ body {
     height: 50px;
     background-color: rgba(246, 164, 84, 1);
     font-weight: bold;
+    position: relative;
+    margin-top: 0px;
 }
 
 .kotak {
